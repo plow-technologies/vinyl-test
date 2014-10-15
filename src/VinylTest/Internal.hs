@@ -1,0 +1,3 @@
+module VinylTest.Internal
+    (
+    ) where
